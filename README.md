@@ -3,8 +3,10 @@ Este es un chatbot de WhatsApp construido usando Baileys.
 
 ## Requisitos
 
-- Node.js (versión 16 o superior)
+- Node.js (versión 16 o superior) ([https://nodejs.org/en/download/prebuilt-installer])
 - npm (versión 7 o superior)
+- vs code ([https://code.visualstudio.com/Download])
+- git ([https://git-scm.com/downloads])
 
 ## Características
 
